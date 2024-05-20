@@ -1,4 +1,4 @@
-### Hi there, I'm Gloria 👋. A bit about me:
+### Hi there, I'm Gloria 👋 A bit about me:
 
 - 🔭 I'm currently working on my first jQuery selector plugin.
 - 🌱 I’m also learning about front-end libraries - here's my freeCodeCamp profile: https://www.freecodecamp.org/GloriaNOnwuneme
