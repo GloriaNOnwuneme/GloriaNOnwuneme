@@ -4,4 +4,4 @@
 - 🌱 I’m also learning about front-end libraries - here's my freeCodeCamp profile: https://www.freecodecamp.org/GloriaNOnwuneme
 - 👯 I’m looking to collaborate on any and everything...
 - 🤔 ...and need help finding entry-level front-end web development jobs.
-- 📫 How to reach me: via https://www.pxreader.com/, https://www.click-to-select.com/ or on X!
+- 📫 How to reach me: via https://www.pxreader.com/, https://www.translatortools.org/ or on X!
